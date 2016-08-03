@@ -1,0 +1,13 @@
+{
+  "name": "richkay/materialize",
+  "description": "materialize - admin control panel and dashboard",
+  "keywords": [
+    "css",
+  ],
+  "authors": [
+    {
+      "name": "rich kay",
+      "email": "richfein71@gmail.com"
+    }
+  ],
+}
